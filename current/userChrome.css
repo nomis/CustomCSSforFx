@@ -178,7 +178,7 @@
    [!] Firefox 88 icon set uses SVG images
 */
 
-@import "./css/buttons/icons_colorized.css"; /**/
+/* @import "./css/buttons/icons_colorized.css"; /**/
 /* @import "./css/buttons/icons_white_icons.css"; /**/
 /* @import "./css/buttons/icons_custom_icons.css"; /**/
 /* @import "./css/buttons/icons_custom_icons_fx1.css"; /**/
@@ -219,9 +219,9 @@
    [!] good for Dark themes: buttons_on_navbar_glass_appearance.css
 */
 
-@import "./css/buttons/buttons_on_navbar_classic_appearance.css"; /**/
+/* @import "./css/buttons/buttons_on_navbar_classic_appearance.css"; /**/
 /* @import "./css/buttons/buttons_on_navbar_classic_appearance_v2.css"; /**/
-/* @import "./css/buttons/buttons_on_navbar_classic_appearance_dark.css"; /**/		
+/* @import "./css/buttons/buttons_on_navbar_classic_appearance_dark.css"; /**/
 /* @import "./css/buttons/buttons_on_navbar_aero_appearance.css"; /**/
 /* @import "./css/buttons/buttons_on_navbar_windows_classic_theme_appearance.css"; /**/
 /* @import "./css/buttons/buttons_on_navbar_glass_appearance.css"; /**/
@@ -287,7 +287,7 @@
 
 /* @import "./css/buttons/buttons_on_bookmarks_toolbar_classic_appearance_items.css"; /**/
 /* @import "./css/buttons/buttons_on_bookmarks_toolbar_classic_appearance_items_dark.css"; /**/
-/* @import "./css/buttons/buttons_on_bookmarks_toolbar_aero_appearance_items.css"; /**/
+@import "./css/buttons/buttons_on_bookmarks_toolbar_aero_appearance_items.css"; /**/
 
 
 /* -------------------------------
@@ -396,8 +396,8 @@
    ----------------------------------
 */
 
-@import "./css/appbutton/appbutton_popup_icons.css"; /**/
-@import "./css/appbutton/appbutton_popup_icons_colorized.css"; /**/
+/* @import "./css/appbutton/appbutton_popup_icons.css"; /**/
+/* @import "./css/appbutton/appbutton_popup_icons_colorized.css"; /**/
 /* @import "./css/appbutton/appbutton_popup_sync_hidden.css"; /**/
 /* @import "./css/appbutton/appbutton_popup_logins_and_passwords_hidden.css"; /**/
 
@@ -570,7 +570,7 @@
    [!] Note: might require overriding url bars 'selection color' --> see corresponding area
 */
 
-/* @import "./css/tabs/tabs_below_navigation_toolbar.css"; /**/
+@import "./css/tabs/tabs_below_navigation_toolbar.css"; /**/
 
 
 /* Alternative for multi-lined tabs (Glitches might occur with inactive menubar!)
@@ -642,12 +642,12 @@
    [!] only use one option at a time
 */
 
-@import "./css/tabs/missing_tab_favicon_restored_default.css"; /**/
+/* @import "./css/tabs/missing_tab_favicon_restored_default.css"; /**/
 /* @import "./css/tabs/missing_tab_favicon_restored_globe_v2.css"; /**/
 /* @import "./css/tabs/missing_tab_favicon_restored_sheet.css"; /**/
 /* @import "./css/tabs/missing_tab_favicon_restored_dotted.css"; /**/
 /* @import "./css/tabs/missing_tab_favicon_restored_dotted_white.css"; /**/
-/* @import "./css/tabs/missing_tab_favicon_restored_brand_logo.css"; /**/
+@import "./css/tabs/missing_tab_favicon_restored_brand_logo.css"; /**/
 
 
 /* ----------------------------
@@ -793,7 +793,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/generalui/context_bfrsb_labels_without_icons.css"; /**/
+/* @import "./css/generalui/context_bfrsb_labels_without_icons.css"; /**/
 /* @import "./css/generalui/context_bfrsb_labels_with_icons.css"; /**/
 
 
@@ -866,7 +866,7 @@
    -----------------------------
 */
 
-@import "./css/generalui/searchbar_glassplus_indicator_hidden.css"; /**/
+/* @import "./css/generalui/searchbar_glassplus_indicator_hidden.css"; /**/
 /* @import "./css/generalui/searchbar_go_button_hidden.css"; /**/
 
 
@@ -1033,7 +1033,7 @@
    [!] EXPERIMENTAL
 */
 
-/* @import "./css/toolbars/bookmarks_toolbar_multiple_lines.css"; /**/
+@import "./css/toolbars/bookmarks_toolbar_multiple_lines.css"; /**/
 
 
 /* -----------------
@@ -1041,7 +1041,7 @@
    -----------------
 */
 
-@import "./css/toolbars/general_toolbar_colors.css"; /**/
+/* @import "./css/toolbars/general_toolbar_colors.css"; /**/
 /* @import "./css/toolbars/tab_toolbar_colors_force_menubar_color.css"; /**/
 
 
